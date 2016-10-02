@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DistributedWordCount:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DistributedWordCount_jar</output-path>
+    <root id="archive" name="DistributedWordCount.jar">
+      <element id="module-output" name="DistributedWordCount" />
+    </root>
+  </artifact>
+</component>
